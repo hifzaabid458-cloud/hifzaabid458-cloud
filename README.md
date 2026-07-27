@@ -54,7 +54,7 @@ A web-based college management system designed for students, teachers, and admin
 - Announcements
 - Database Integration
 
-🔗 [View Smart College Portal](https://github.com/hifzaabid458-cloud/Smart-College-Portal)
+https://github.com/hifzaabid458-cloud/Smart-College-Portal
 
 ---
 
@@ -76,8 +76,10 @@ A web-based banking management system developed to demonstrate banking operation
 - Transaction Management
 - Database Integration
 - Logout Functionality
+- 
+https://github.com/hifzaabid458-cloud/ABC-BANK-WebSite
 
-
+---
 
 ## 📚 Currently Learning
 
