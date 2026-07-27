@@ -76,7 +76,7 @@ A web-based banking management system developed to demonstrate banking operation
 - Transaction Management
 - Database Integration
 - Logout Functionality
-- 
+
 https://github.com/hifzaabid458-cloud/ABC-BANK-WebSite
 
 ---
