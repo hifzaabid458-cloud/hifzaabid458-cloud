@@ -1,19 +1,22 @@
 # Hi, I'm Hifza Abid 👋
 
 🎓 Computer Science Student  
-💻 Web Developer  
-📊 Aspiring Data Scientist  
+💻 Software & Flutter Developer  
+🌐 Web Developer  
+📊 Aspiring Data Analyst  
 
-Welcome to my GitHub profile! I am a Computer Science student passionate about technology, software development, and data science. I enjoy learning new skills and building practical projects that help me improve my programming and problem-solving abilities.
+Welcome to my GitHub profile! I'm a Computer Science student passionate about software development, data, and building practical projects. I enjoy turning ideas into functional applications while continuously improving my technical and problem-solving skills.
 
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 💻 Interested in Web Development and Data Science
-- 🌱 Currently improving my programming and technical skills
-- 🛠️ Enjoy building practical software projects
-- 📚 Always learning and exploring new technologies
-- 🎯 Goal: To grow as a skilled Software Developer and Data Scientist
+- 💻 Building web and mobile applications
+- 📱 Developing applications with Flutter & Dart
+- 🌐 Experience with PHP, HTML, CSS, JavaScript and MySQL
+- 📊 Currently developing my Data Analytics skills
+- 🌱 Continuously learning new technologies
+- 🛠️ Enjoy building practical projects for my portfolio
+- 🎯 Goal: To grow as a skilled Software Developer and Data Analyst
 
 ## 💻 Skills & Technologies
 
@@ -22,6 +25,13 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about t
 - C++
 - PHP
 - JavaScript
+- Dart
+- Python
+
+### Mobile Development
+- Flutter
+- Dart
+- Android Studio
 
 ### Web Development
 - HTML5
@@ -34,41 +44,76 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about t
 - SQL
 - Database Management
 
+### Data & Analytics
+- Python
+- Pandas
+- Data Analysis
+- Statistics
+- Data Visualization
+- Machine Learning
+
 ### Tools & Platforms
 - Git
 - GitHub
+- Flutter
+- Android Studio
+- Jupyter Notebook
 - XAMPP
 
 ## 🚀 Featured Projects
 
 ### 🎓 Smart College Portal
+
 A web-based college management system designed for students, teachers, and administrators.
 
-**Features include:**
+**Features:**
 - Student Dashboard
 - Admin Dashboard
 - Teacher Features
-- Student and Course Management
-- Results and GPA Calculation
+- Student & Course Management
+- Results & GPA Calculation
 - Attendance Management
 - Announcements
 - Database Integration
 
-https://github.com/hifzaabid458-cloud/Smart-College-Portal
+🔗 [View Project](https://github.com/hifzaabid458-cloud/Smart-College-Portal)
+
+---
+
+### 📚 Scholarships App
+
+A Flutter mobile application designed to help students explore scholarship opportunities from different countries.
+
+**Features:**
+- 🔍 Scholarship Search & Filtering
+- 🌍 Country-Based Filtering
+- 🎓 Scholarship Categories
+- 💰 Funding Type Classification
+- 🔖 Save & Remove Scholarships
+- 📄 Detailed Scholarship Information
+- 🌐 Official Scholarship Website Links
+- 🎨 Custom Splash Screen
+
+**Technologies:**
+- Flutter
+- Dart
+- Material UI
+- URL Launcher
 
 ---
 
 ### 🏦 ABC Bank Management System
+
 A web-based banking management system developed to demonstrate banking operations and database integration.
 
-**Technologies Used:**
+**Technologies:**
 - HTML
 - CSS
 - JavaScript
 - PHP
 - MySQL
 
-**Features include:**
+**Features:**
 - User Registration
 - User Login
 - Dashboard
@@ -77,23 +122,36 @@ A web-based banking management system developed to demonstrate banking operation
 - Database Integration
 - Logout Functionality
 
-https://github.com/hifzaabid458-cloud/ABC-BANK-WebSite
+🔗 [View Project](https://github.com/hifzaabid458-cloud/ABC-BANK-WebSite)
 
----
+## 📱 Mobile Development Journey
 
-## 📚 Currently Learning
+I am currently building Flutter applications to strengthen my mobile development skills and create practical portfolio projects.
+
+Projects include:
+
+- 📚 Scholarships App
+- 🎓 Smart College Mobile App
+
+## 📊 Currently Learning
 
 - Python
-- Data Science
 - Data Analysis
 - SQL
 - Statistics
+- Data Visualization
 - Machine Learning
+- Flutter & Dart
+- Software Development
+
+## 🎯 My Goal
+
+To continuously learn, build meaningful projects, gain professional experience, and grow into a skilled technology professional.
 
 ## 🤝 Let's Connect
-www.linkedin.com/in/hifza-abid-626a05376
 
+🔗 [LinkedIn](https://www.linkedin.com/in/hifza-abid-626a05376)
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
 
-✨ Keep learning. Keep building. Keep growing. ✨
+✨ **Keep learning. Keep building. Keep growing.** ✨
