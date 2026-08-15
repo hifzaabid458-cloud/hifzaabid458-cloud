@@ -62,6 +62,23 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about so
 
 ## 🚀 Featured Projects
 
+### ☕ Hifza's Cafe
+
+A full-stack café website built with **PHP, MySQL, HTML, CSS, and JavaScript**.
+
+- 🩷 Soft pink and white café-themed UI
+- 🍰 32 menu items across 6 categories
+- 🛒 Shopping cart with quantity controls
+- 📝 Customer ordering system
+- 💌 Contact message system
+- 🗄️ MySQL database integration
+- 📱 Responsive design
+- 🔐 Database credentials protected with `.gitignore`
+
+**Tech Stack:** PHP • MySQL • HTML5 • CSS3 • JavaScript • XAMPP
+
+🔗 [View Project](https://github.com/hifzaabid458-cloud/Hifza-Cafe)**
+
 ### 🎓 Smart College Portal
 
 A web-based college management system designed for students, teachers, and administrators.
