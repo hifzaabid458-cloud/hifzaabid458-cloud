@@ -225,7 +225,7 @@ My goal is to combine strong fundamentals + practical projects + professional ex
 📧 Email: hifzaabid458@gmail.com
 
 💼 LinkedIn:
-linkedin.com/in/hifza-abid-626a05376⁠�
+https://www.linkedin.com/in/hifza-abid-626a05376?
 
 🐙 GitHub:
 github.com/hifzaabid458-cloud⁠�
