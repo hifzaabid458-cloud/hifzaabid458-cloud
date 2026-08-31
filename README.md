@@ -77,6 +77,13 @@ Currently, I'm focused on becoming **job-ready in Data Science & Data Analysis**
 
 ## 📊 Featured Data Science & ML Projects
 
+### 📚Book Exchange Analytics Dashboard
+A full-stack analytics dashboard that transforms book-exchange data into interactive insights using Python, FastAPI, Flutter, and fl_chart.
+
+🔗 [View Project](https://github.com/hifzaabid458-cloud/book-exchange-analytics-dashboard)
+
+---
+
 ### 🌱 Crop Disease Detection using CNN
 
 A deep learning project that classifies potato leaf images into four categories:
