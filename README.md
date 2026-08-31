@@ -77,10 +77,20 @@ Currently, I'm focused on becoming **job-ready in Data Science & Data Analysis**
 
 ## 📊 Featured Data Science & ML Projects
 
-### 📚Book Exchange Analytics Dashboard
-A full-stack analytics dashboard that transforms book-exchange data into interactive insights using Python, FastAPI, Flutter, and fl_chart.
+### 📊 Book Exchange Analytics Dashboard
 
-🔗 [View Project](https://github.com/hifzaabid458-cloud/book-exchange-analytics-dashboard)
+A full-stack analytics dashboard that transforms book-exchange data into interactive insights using Python, Pandas, FastAPI, REST APIs, Flutter, and fl_chart.
+
+### Highlights:
+• Genre analysis
+• KPI analytics 
+• Genre analysis
+• Location analysis
+• Request status
+• Book analytics 
+• Completion-time analysis
+
+🔗 "View Project" (https://github.com/hifzaabid458-cloud/book-exchange-analytics-dashboard)
 
 ---
 
